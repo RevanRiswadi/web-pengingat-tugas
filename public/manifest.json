@@ -1,0 +1,16 @@
+{
+  "name": "TaskMind - Pengingat Tugas",
+  "short_name": "TaskMind",
+  "description": "Pengingat dan manajemen tugas sekolah modern",
+  "start_url": "/tasks",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
